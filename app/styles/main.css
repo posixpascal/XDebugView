@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	min-width: 650px;
+	border: none;
+	padding-top: 60px;
+}
+.header {
+	background-color: #5D6DFF;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 200;
+	line-height: 60px;
+	height: 60px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+.content {
+
+
+}
