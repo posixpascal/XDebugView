@@ -1,9 +1,8 @@
 ## XDebugView
-A chrome extension to view xdebug information right within the popup.
+A chrome extension to view xdebug information in a popup.
 
 I needed this little helper because my xdebug logs were always hidden (due to angular not loading the page when there are PHP errors).
 
-It's far from complete but fulfills it's job.
 
 ### Screenshot
 
